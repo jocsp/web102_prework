@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/YnsqYP7"  ><a href="//imgur.com/a/YnsqYP7">CodePath WEB102 Pre Work</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap 
