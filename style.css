@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Cabin';
-    background-color: #758190;
+    background-color: #eeeeee;
 }
 
 #tentacles {
@@ -21,10 +21,18 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: center;
+
+}
+
+.stats-container:hover {
+    box-shadow: 0 0 30px lightblue;
+    cursor: pointer;
 }
 
 .stats-card {
-    background-color: #a8b0bc;
+    background-color: #d6e1e8;
+    border: 1px solid #55555515;
     border-radius: 7px;
     padding: 1%;
     margin: 1%;
@@ -72,4 +80,11 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+    background-color: #4aa4c7;
+    color: #ffffff;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #5ab4d7;
 }
